@@ -18,6 +18,6 @@ int main(void)
 
 	*str = "Hello";
 
-ft_putstr(*s;tr);
+ft_putstr(*str);
 	return(0);
 }
